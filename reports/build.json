@@ -1,0 +1,9 @@
+{
+  "app": "clinical-research-platform",
+  "features": 268,
+  "sourceApps": 13,
+  "calculatorEngines": 0,
+  "registryHash": "a368b979e49c084a0b30e33a70c7cb837f23a23aa23fae79547b01cbc8ed24f9",
+  "builtAt": "2026-09-07T22:05:31.291Z",
+  "status": "built"
+}

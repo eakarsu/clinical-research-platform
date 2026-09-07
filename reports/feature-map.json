@@ -1,0 +1,3107 @@
+{
+  "mapped": [
+    {
+      "project": "ai-clinical-research-medicare-coverage-billing-compliance",
+      "sourceKey": "study-protocol-registry",
+      "source": "/Volumes/external/projects/ai-clinical-research-medicare-coverage-billing-compliance/app.config.mjs",
+      "canonical": "study-protocol-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-clinical-research-medicare-coverage-billing-compliance",
+      "sourceKey": "coverage-analysis",
+      "source": "/Volumes/external/projects/ai-clinical-research-medicare-coverage-billing-compliance/app.config.mjs",
+      "canonical": "coverage-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-clinical-research-medicare-coverage-billing-compliance",
+      "sourceKey": "national-coverage-rule-mapping",
+      "source": "/Volumes/external/projects/ai-clinical-research-medicare-coverage-billing-compliance/app.config.mjs",
+      "canonical": "national-coverage-rule-mapping",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-clinical-research-medicare-coverage-billing-compliance",
+      "sourceKey": "sponsor-budget-mapping",
+      "source": "/Volumes/external/projects/ai-clinical-research-medicare-coverage-billing-compliance/app.config.mjs",
+      "canonical": "sponsor-budget-mapping",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-clinical-research-medicare-coverage-billing-compliance",
+      "sourceKey": "participant-enrollment",
+      "source": "/Volumes/external/projects/ai-clinical-research-medicare-coverage-billing-compliance/app.config.mjs",
+      "canonical": "participant-enrollment",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-clinical-research-medicare-coverage-billing-compliance",
+      "sourceKey": "encounter-order-linking",
+      "source": "/Volumes/external/projects/ai-clinical-research-medicare-coverage-billing-compliance/app.config.mjs",
+      "canonical": "encounter-order-linking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-clinical-research-medicare-coverage-billing-compliance",
+      "sourceKey": "routine-cost-determination",
+      "source": "/Volumes/external/projects/ai-clinical-research-medicare-coverage-billing-compliance/app.config.mjs",
+      "canonical": "routine-cost-determination",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-clinical-research-medicare-coverage-billing-compliance",
+      "sourceKey": "sponsor-paid-service-detection",
+      "source": "/Volumes/external/projects/ai-clinical-research-medicare-coverage-billing-compliance/app.config.mjs",
+      "canonical": "sponsor-paid-service-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-clinical-research-medicare-coverage-billing-compliance",
+      "sourceKey": "q0-q1-modifier-control",
+      "source": "/Volumes/external/projects/ai-clinical-research-medicare-coverage-billing-compliance/app.config.mjs",
+      "canonical": "q0-q1-modifier-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-clinical-research-medicare-coverage-billing-compliance",
+      "sourceKey": "diagnosis-code-validation",
+      "source": "/Volumes/external/projects/ai-clinical-research-medicare-coverage-billing-compliance/app.config.mjs",
+      "canonical": "diagnosis-code-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-clinical-research-medicare-coverage-billing-compliance",
+      "sourceKey": "claim-prebill-review",
+      "source": "/Volumes/external/projects/ai-clinical-research-medicare-coverage-billing-compliance/app.config.mjs",
+      "canonical": "claim-prebill-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-clinical-research-medicare-coverage-billing-compliance",
+      "sourceKey": "sponsor-invoice-reconciliation",
+      "source": "/Volumes/external/projects/ai-clinical-research-medicare-coverage-billing-compliance/app.config.mjs",
+      "canonical": "sponsor-invoice-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-clinical-research-medicare-coverage-billing-compliance",
+      "sourceKey": "double-bill-detection",
+      "source": "/Volumes/external/projects/ai-clinical-research-medicare-coverage-billing-compliance/app.config.mjs",
+      "canonical": "double-bill-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-clinical-research-medicare-coverage-billing-compliance",
+      "sourceKey": "correction-refund-workflow",
+      "source": "/Volumes/external/projects/ai-clinical-research-medicare-coverage-billing-compliance/app.config.mjs",
+      "canonical": "correction-refund-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-clinical-research-medicare-coverage-billing-compliance",
+      "sourceKey": "study-billing-analytics",
+      "source": "/Volumes/external/projects/ai-clinical-research-medicare-coverage-billing-compliance/app.config.mjs",
+      "canonical": "study-billing-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-clinical-research-medicare-coverage-billing-compliance",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-clinical-research-medicare-coverage-billing-compliance/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-clinical-research-medicare-coverage-billing-compliance",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-clinical-research-medicare-coverage-billing-compliance/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-clinical-trial-site-budget-payment-reconciliation",
+      "sourceKey": "cta-and-budget-grid-library",
+      "source": "/Volumes/external/projects/ai-clinical-trial-site-budget-payment-reconciliation/app.config.mjs",
+      "canonical": "cta-and-budget-grid-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-clinical-trial-site-budget-payment-reconciliation",
+      "sourceKey": "protocol-and-site-registry",
+      "source": "/Volumes/external/projects/ai-clinical-trial-site-budget-payment-reconciliation/app.config.mjs",
+      "canonical": "protocol-and-site-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-clinical-trial-site-budget-payment-reconciliation",
+      "sourceKey": "subject-enrollment-reconciliation",
+      "source": "/Volumes/external/projects/ai-clinical-trial-site-budget-payment-reconciliation/app.config.mjs",
+      "canonical": "subject-enrollment-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-clinical-trial-site-budget-payment-reconciliation",
+      "sourceKey": "visit-and-procedure-earnings",
+      "source": "/Volumes/external/projects/ai-clinical-trial-site-budget-payment-reconciliation/app.config.mjs",
+      "canonical": "visit-and-procedure-earnings",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-clinical-trial-site-budget-payment-reconciliation",
+      "sourceKey": "screen-failure-payment-validation",
+      "source": "/Volumes/external/projects/ai-clinical-trial-site-budget-payment-reconciliation/app.config.mjs",
+      "canonical": "screen-failure-payment-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-clinical-trial-site-budget-payment-reconciliation",
+      "sourceKey": "milestone-payment-tracking",
+      "source": "/Volumes/external/projects/ai-clinical-trial-site-budget-payment-reconciliation/app.config.mjs",
+      "canonical": "milestone-payment-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-clinical-trial-site-budget-payment-reconciliation",
+      "sourceKey": "start-up-fee-reconciliation",
+      "source": "/Volumes/external/projects/ai-clinical-trial-site-budget-payment-reconciliation/app.config.mjs",
+      "canonical": "start-up-fee-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-clinical-trial-site-budget-payment-reconciliation",
+      "sourceKey": "pass-through-cost-recovery",
+      "source": "/Volumes/external/projects/ai-clinical-trial-site-budget-payment-reconciliation/app.config.mjs",
+      "canonical": "pass-through-cost-recovery",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-clinical-trial-site-budget-payment-reconciliation",
+      "sourceKey": "holdback-and-retainage-control",
+      "source": "/Volumes/external/projects/ai-clinical-trial-site-budget-payment-reconciliation/app.config.mjs",
+      "canonical": "holdback-and-retainage-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-clinical-trial-site-budget-payment-reconciliation",
+      "sourceKey": "amendment-and-rate-effective-dates",
+      "source": "/Volumes/external/projects/ai-clinical-trial-site-budget-payment-reconciliation/app.config.mjs",
+      "canonical": "amendment-and-rate-effective-dates",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-clinical-trial-site-budget-payment-reconciliation",
+      "sourceKey": "invoice-generation-and-support",
+      "source": "/Volumes/external/projects/ai-clinical-trial-site-budget-payment-reconciliation/app.config.mjs",
+      "canonical": "invoice-generation-and-support",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-clinical-trial-site-budget-payment-reconciliation",
+      "sourceKey": "sponsor-payment-matching",
+      "source": "/Volumes/external/projects/ai-clinical-trial-site-budget-payment-reconciliation/app.config.mjs",
+      "canonical": "sponsor-payment-matching",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-clinical-trial-site-budget-payment-reconciliation",
+      "sourceKey": "payment-query-and-dispute-workflow",
+      "source": "/Volumes/external/projects/ai-clinical-trial-site-budget-payment-reconciliation/app.config.mjs",
+      "canonical": "payment-query-and-dispute-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-clinical-trial-site-budget-payment-reconciliation",
+      "sourceKey": "receivable-aging-and-forecasting",
+      "source": "/Volumes/external/projects/ai-clinical-trial-site-budget-payment-reconciliation/app.config.mjs",
+      "canonical": "receivable-aging-and-forecasting",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-clinical-trial-site-budget-payment-reconciliation",
+      "sourceKey": "study-profitability-analytics",
+      "source": "/Volumes/external/projects/ai-clinical-trial-site-budget-payment-reconciliation/app.config.mjs",
+      "canonical": "study-profitability-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-clinical-trial-site-budget-payment-reconciliation",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-clinical-trial-site-budget-payment-reconciliation/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-clinical-trial-site-budget-payment-reconciliation",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-clinical-trial-site-budget-payment-reconciliation/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-personalized-medicine",
+      "sourceKey": "/clinical-workflow",
+      "source": "/Volumes/external/projects/ai-personalized-medicine/frontend/src/components/Layout.tsx",
+      "canonical": "clinical-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-personalized-medicine",
+      "sourceKey": "/patients",
+      "source": "/Volumes/external/projects/ai-personalized-medicine/frontend/src/components/Layout.tsx",
+      "canonical": "patients",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-personalized-medicine",
+      "sourceKey": "/health-records",
+      "source": "/Volumes/external/projects/ai-personalized-medicine/frontend/src/components/Layout.tsx",
+      "canonical": "health-records",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-personalized-medicine",
+      "sourceKey": "/genome-markers",
+      "source": "/Volumes/external/projects/ai-personalized-medicine/frontend/src/components/Layout.tsx",
+      "canonical": "genome-markers",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-personalized-medicine",
+      "sourceKey": "/medications",
+      "source": "/Volumes/external/projects/ai-personalized-medicine/frontend/src/components/Layout.tsx",
+      "canonical": "medications",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-personalized-medicine",
+      "sourceKey": "/lab-results",
+      "source": "/Volumes/external/projects/ai-personalized-medicine/frontend/src/components/Layout.tsx",
+      "canonical": "lab-results",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-personalized-medicine",
+      "sourceKey": "/recommendations",
+      "source": "/Volumes/external/projects/ai-personalized-medicine/frontend/src/components/Layout.tsx",
+      "canonical": "recommendations",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-personalized-medicine",
+      "sourceKey": "/pgx-cpic",
+      "source": "/Volumes/external/projects/ai-personalized-medicine/frontend/src/components/Layout.tsx",
+      "canonical": "pgx-cpic",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-personalized-medicine",
+      "sourceKey": "/variant-acmg",
+      "source": "/Volumes/external/projects/ai-personalized-medicine/frontend/src/components/Layout.tsx",
+      "canonical": "variant-acmg",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-personalized-medicine",
+      "sourceKey": "/prs",
+      "source": "/Volumes/external/projects/ai-personalized-medicine/frontend/src/components/Layout.tsx",
+      "canonical": "prs",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-personalized-medicine",
+      "sourceKey": "/trial-matcher",
+      "source": "/Volumes/external/projects/ai-personalized-medicine/frontend/src/components/Layout.tsx",
+      "canonical": "trial-matcher",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-personalized-medicine",
+      "sourceKey": "/warfarin-iwpc",
+      "source": "/Volumes/external/projects/ai-personalized-medicine/frontend/src/components/Layout.tsx",
+      "canonical": "warfarin-iwpc",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-personalized-medicine",
+      "sourceKey": "/gap/lab-trend-detector",
+      "source": "/Volumes/external/projects/ai-personalized-medicine/frontend/src/components/Layout.tsx",
+      "canonical": "lab-trend-detector",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-personalized-medicine",
+      "sourceKey": "/gap/dose-personalizer",
+      "source": "/Volumes/external/projects/ai-personalized-medicine/frontend/src/components/Layout.tsx",
+      "canonical": "dose-personalizer",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-personalized-medicine",
+      "sourceKey": "/gap/wearable-stream-analyzer",
+      "source": "/Volumes/external/projects/ai-personalized-medicine/frontend/src/components/Layout.tsx",
+      "canonical": "wearable-stream-analyzer",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-personalized-medicine",
+      "sourceKey": "/gap/genome-therapy-designer",
+      "source": "/Volumes/external/projects/ai-personalized-medicine/frontend/src/components/Layout.tsx",
+      "canonical": "genome-therapy-designer",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-personalized-medicine",
+      "sourceKey": "/gap/ehr-summarize",
+      "source": "/Volumes/external/projects/ai-personalized-medicine/frontend/src/components/Layout.tsx",
+      "canonical": "ehr-summarize",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-personalized-medicine",
+      "sourceKey": "/gap/wearables-integration",
+      "source": "/Volumes/external/projects/ai-personalized-medicine/frontend/src/components/Layout.tsx",
+      "canonical": "wearables-integration",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-personalized-medicine",
+      "sourceKey": "/gap/fhir-connector",
+      "source": "/Volumes/external/projects/ai-personalized-medicine/frontend/src/components/Layout.tsx",
+      "canonical": "fhir-connector",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-personalized-medicine",
+      "sourceKey": "/gap/hipaa-audit",
+      "source": "/Volumes/external/projects/ai-personalized-medicine/frontend/src/components/Layout.tsx",
+      "canonical": "hipaa-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-personalized-medicine",
+      "sourceKey": "/gap/consent-management",
+      "source": "/Volumes/external/projects/ai-personalized-medicine/frontend/src/components/Layout.tsx",
+      "canonical": "consent-management",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-personalized-medicine",
+      "sourceKey": "/gap/clinician-roles",
+      "source": "/Volumes/external/projects/ai-personalized-medicine/frontend/src/components/Layout.tsx",
+      "canonical": "clinician-roles",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-personalized-medicine",
+      "sourceKey": "/cf/mrna-n-of-1",
+      "source": "/Volumes/external/projects/ai-personalized-medicine/frontend/src/components/Layout.tsx",
+      "canonical": "mrna-n-of-1",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-personalized-medicine",
+      "sourceKey": "/cf/wearable-fusion",
+      "source": "/Volumes/external/projects/ai-personalized-medicine/frontend/src/components/Layout.tsx",
+      "canonical": "wearable-fusion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-personalized-medicine",
+      "sourceKey": "/cf/trial-autofill",
+      "source": "/Volumes/external/projects/ai-personalized-medicine/frontend/src/components/Layout.tsx",
+      "canonical": "trial-autofill",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-personalized-medicine",
+      "sourceKey": "/cf/pharmacogenomics",
+      "source": "/Volumes/external/projects/ai-personalized-medicine/frontend/src/components/Layout.tsx",
+      "canonical": "pharmacogenomics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-personalized-medicine",
+      "sourceKey": "/cf/longitudinal-twin",
+      "source": "/Volumes/external/projects/ai-personalized-medicine/frontend/src/components/Layout.tsx",
+      "canonical": "longitudinal-twin",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-personalized-medicine",
+      "sourceKey": "/consents",
+      "source": "/Volumes/external/projects/ai-personalized-medicine/frontend/src/components/Layout.tsx",
+      "canonical": "consents",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-personalized-medicine",
+      "sourceKey": "/field-access-log",
+      "source": "/Volumes/external/projects/ai-personalized-medicine/frontend/src/components/Layout.tsx",
+      "canonical": "field-access-log",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-personalized-medicine",
+      "sourceKey": "/adverse-event-signals",
+      "source": "/Volumes/external/projects/ai-personalized-medicine/frontend/src/components/Layout.tsx",
+      "canonical": "adverse-event-signals",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-personalized-medicine",
+      "sourceKey": "/tools",
+      "source": "/Volumes/external/projects/ai-personalized-medicine/frontend/src/components/Layout.tsx",
+      "canonical": "tools",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "Protein Design",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/App.jsx",
+      "canonical": "protein-design",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "Drug Targets",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/App.jsx",
+      "canonical": "drug-targets",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "Drug Candidates",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/App.jsx",
+      "canonical": "drug-candidates",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "Molecular Screening",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/App.jsx",
+      "canonical": "molecular-screening",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "Binding Affinities",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/App.jsx",
+      "canonical": "binding-affinities",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "Toxicity Predictions",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/App.jsx",
+      "canonical": "toxicity-predictions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "Protein Structures",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/App.jsx",
+      "canonical": "protein-structures",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "Clinical Trials",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/App.jsx",
+      "canonical": "clinical-trials",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "Compound Library",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/App.jsx",
+      "canonical": "compound-library",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "Research Projects",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/App.jsx",
+      "canonical": "research-projects",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "Lab Experiments",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/App.jsx",
+      "canonical": "lab-experiments",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "Drug Interactions",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/App.jsx",
+      "canonical": "drug-interactions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "ADMET Properties",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/App.jsx",
+      "canonical": "admet-properties",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "Literature & Research",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/App.jsx",
+      "canonical": "literature-research",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "AI Protein Design",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/App.jsx",
+      "canonical": "protein-design",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "AI Drug Designer",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/App.jsx",
+      "canonical": "drug-designer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "AI Binding Affinity Prediction",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/App.jsx",
+      "canonical": "binding-affinity-prediction",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "AI Toxicity Prediction",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/App.jsx",
+      "canonical": "toxicity-prediction",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "AI Structure Prediction",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/App.jsx",
+      "canonical": "structure-prediction",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "AI Drug Interaction Check",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/App.jsx",
+      "canonical": "drug-interaction-check",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "AI ADMET Prediction",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/App.jsx",
+      "canonical": "admet-prediction",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "AI Literature Analysis",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/App.jsx",
+      "canonical": "literature-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "Sequence Validator",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/App.jsx",
+      "canonical": "sequence-validator",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "Candidate Ranker",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/App.jsx",
+      "canonical": "candidate-ranker",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "Solubility Predictor",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/App.jsx",
+      "canonical": "solubility-predictor",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "Docking Integrator",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/App.jsx",
+      "canonical": "docking-integrator",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "Off-Target Predictor",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/App.jsx",
+      "canonical": "off-target-predictor",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "Formulation Recommender",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/App.jsx",
+      "canonical": "formulation-recommender",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "Patent Landscape",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/App.jsx",
+      "canonical": "patent-landscape",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "Virtual HTS Simulator",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/App.jsx",
+      "canonical": "virtual-hts-simulator",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "SAR Analyzer",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/App.jsx",
+      "canonical": "sar-analyzer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "Clinical Trial Designer",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/App.jsx",
+      "canonical": "clinical-trial-designer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "Competitive Intelligence",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/App.jsx",
+      "canonical": "competitive-intelligence",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "Regulatory Pathway Advisor",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/App.jsx",
+      "canonical": "regulatory-pathway-advisor",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "Virtual Screening Pipeline",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/App.jsx",
+      "canonical": "virtual-screening-pipeline",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "PubChem Lookup",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/App.jsx",
+      "canonical": "pub-chem-lookup",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "Predictive Trial Success",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/App.jsx",
+      "canonical": "predictive-trial-success",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "Lab Automation Planner",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/App.jsx",
+      "canonical": "lab-automation-planner",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "Multi-Objective Optimizer",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/App.jsx",
+      "canonical": "multi-objective-optimizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "/discovery",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/components/Layout.jsx",
+      "canonical": "discovery",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "/advanced-discovery",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/components/Layout.jsx",
+      "canonical": "advanced-discovery",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "/proteins",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/components/Layout.jsx",
+      "canonical": "protein-design",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "/targets",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/components/Layout.jsx",
+      "canonical": "drug-targets",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "/drug-candidates",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/components/Layout.jsx",
+      "canonical": "drug-candidates",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "/screenings",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/components/Layout.jsx",
+      "canonical": "molecular-screening",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "/compounds",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/components/Layout.jsx",
+      "canonical": "compound-library",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "/binding-affinities",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/components/Layout.jsx",
+      "canonical": "binding-affinities",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "/toxicity",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/components/Layout.jsx",
+      "canonical": "toxicity",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "/structures",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/components/Layout.jsx",
+      "canonical": "protein-structures",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "/drug-interactions",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/components/Layout.jsx",
+      "canonical": "drug-interactions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "/admet",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/components/Layout.jsx",
+      "canonical": "admet-properties",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "/clinical-trials",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/components/Layout.jsx",
+      "canonical": "clinical-trials",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "/projects",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/components/Layout.jsx",
+      "canonical": "research-projects",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "/experiments",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/components/Layout.jsx",
+      "canonical": "lab-experiments",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "/literature",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/components/Layout.jsx",
+      "canonical": "literature",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "/ai-protein-design",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/components/Layout.jsx",
+      "canonical": "protein-design",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "/ai-drug-design",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/components/Layout.jsx",
+      "canonical": "drug-designer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "/ai-binding-affinity",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/components/Layout.jsx",
+      "canonical": "binding-affinity",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "/ai-toxicity",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/components/Layout.jsx",
+      "canonical": "toxicity",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "/ai-structure",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/components/Layout.jsx",
+      "canonical": "structure",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "/ai-drug-interaction",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/components/Layout.jsx",
+      "canonical": "drug-interaction",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "/ai-admet",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/components/Layout.jsx",
+      "canonical": "admet",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "/ai-literature",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/components/Layout.jsx",
+      "canonical": "literature",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "/ai-validate-sequence",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/components/Layout.jsx",
+      "canonical": "sequence-validator",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "/ai-rank-candidates",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/components/Layout.jsx",
+      "canonical": "candidate-ranker",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "/ai-predict-solubility",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/components/Layout.jsx",
+      "canonical": "predict-solubility",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "/ai-dock-protein",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/components/Layout.jsx",
+      "canonical": "docking-integrator",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "/ai-predict-off-targets",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/components/Layout.jsx",
+      "canonical": "predict-off-targets",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "/ai-recommend-formulation",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/components/Layout.jsx",
+      "canonical": "recommend-formulation",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "/ai-patent-landscape",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/components/Layout.jsx",
+      "canonical": "patent-landscape",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "/ai-virtual-hts",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/components/Layout.jsx",
+      "canonical": "virtual-hts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "/ai-sar-analysis",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/components/Layout.jsx",
+      "canonical": "sar-analyzer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "/ai-clinical-trial-design",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/components/Layout.jsx",
+      "canonical": "clinical-trial-design",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "/ai-competitive-intelligence",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/components/Layout.jsx",
+      "canonical": "competitive-intelligence",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "/ai-regulatory-pathway",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/components/Layout.jsx",
+      "canonical": "regulatory-pathway",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "/ai-history",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/components/Layout.jsx",
+      "canonical": "history",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "/ai-virtual-screening",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/components/Layout.jsx",
+      "canonical": "virtual-screening",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "/ai-pubchem-lookup",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/components/Layout.jsx",
+      "canonical": "pub-chem-lookup",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "/ai-predictive-trial-success",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/components/Layout.jsx",
+      "canonical": "predictive-trial-success",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "/ai-lab-automation-plan",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/components/Layout.jsx",
+      "canonical": "lab-automation-plan",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "/ai-multi-objective-optimize",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/components/Layout.jsx",
+      "canonical": "multi-objective-optimize",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "/toxicity",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/pages/Dashboard.jsx",
+      "canonical": "toxicity-predictions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "sourceKey": "assay-batch-reproducibility",
+      "source": "/Volumes/external/projects/AIAcceleratedrug",
+      "canonical": "assay-batch-reproducibility",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutomatepharmaceutical",
+      "sourceKey": "compliance-trends",
+      "source": "/Volumes/external/projects/AIAutomatepharmaceutical",
+      "canonical": "compliance-trends",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutomatepharmaceutical",
+      "sourceKey": "compliance-trends/analyze",
+      "source": "/Volumes/external/projects/AIAutomatepharmaceutical",
+      "canonical": "compliance-trends-analyze",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutomatepharmaceutical",
+      "sourceKey": "prompt-templates",
+      "source": "/Volumes/external/projects/AIAutomatepharmaceutical",
+      "canonical": "prompt-templates",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutomatepharmaceutical",
+      "sourceKey": "prompt-templates/preview",
+      "source": "/Volumes/external/projects/AIAutomatepharmaceutical",
+      "canonical": "prompt-templates-preview",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutomatepharmaceutical",
+      "sourceKey": "audit-trail",
+      "source": "/Volumes/external/projects/AIAutomatepharmaceutical",
+      "canonical": "audit-trail",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutomatepharmaceutical",
+      "sourceKey": "regulatory-calendar",
+      "source": "/Volumes/external/projects/AIAutomatepharmaceutical",
+      "canonical": "regulatory-calendar",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutomatepharmaceutical",
+      "sourceKey": "regulatory-calendar/predict",
+      "source": "/Volumes/external/projects/AIAutomatepharmaceutical",
+      "canonical": "regulatory-calendar-predict",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutomatepharmaceutical",
+      "sourceKey": "cross-document-analysis",
+      "source": "/Volumes/external/projects/AIAutomatepharmaceutical",
+      "canonical": "cross-document-analysis",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutomatepharmaceutical",
+      "sourceKey": "cost-analytics",
+      "source": "/Volumes/external/projects/AIAutomatepharmaceutical",
+      "canonical": "cost-analytics",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutomatepharmaceutical",
+      "sourceKey": "cost-analytics/log",
+      "source": "/Volumes/external/projects/AIAutomatepharmaceutical",
+      "canonical": "cost-analytics-log",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutomatepharmaceutical",
+      "sourceKey": "ai-tools/batch",
+      "source": "/Volumes/external/projects/AIAutomatepharmaceutical",
+      "canonical": "batch",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutomatepharmaceutical",
+      "sourceKey": "ai-tools/trends",
+      "source": "/Volumes/external/projects/AIAutomatepharmaceutical",
+      "canonical": "trends",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutomatepharmaceutical",
+      "sourceKey": "ai-tools/prompts",
+      "source": "/Volumes/external/projects/AIAutomatepharmaceutical",
+      "canonical": "prompts",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutomatepharmaceutical",
+      "sourceKey": "ai-tools/audit",
+      "source": "/Volumes/external/projects/AIAutomatepharmaceutical",
+      "canonical": "audit",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutomatepharmaceutical",
+      "sourceKey": "ai-tools/calendar",
+      "source": "/Volumes/external/projects/AIAutomatepharmaceutical",
+      "canonical": "calendar",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutomatepharmaceutical",
+      "sourceKey": "ai-tools/cross-doc",
+      "source": "/Volumes/external/projects/AIAutomatepharmaceutical",
+      "canonical": "cross-doc",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutomatepharmaceutical",
+      "sourceKey": "ai-tools/export",
+      "source": "/Volumes/external/projects/AIAutomatepharmaceutical",
+      "canonical": "export",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutomatepharmaceutical",
+      "sourceKey": "ai-tools/cost",
+      "source": "/Volumes/external/projects/AIAutomatepharmaceutical",
+      "canonical": "cost",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutomatepharmaceutical",
+      "sourceKey": "ai-tools/extra",
+      "source": "/Volumes/external/projects/AIAutomatepharmaceutical",
+      "canonical": "extra",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutomatepharmaceutical",
+      "sourceKey": "ai-tools/extensions",
+      "source": "/Volumes/external/projects/AIAutomatepharmaceutical",
+      "canonical": "extensions",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutomatepharmaceutical",
+      "sourceKey": "capa-readiness-board",
+      "source": "/Volumes/external/projects/AIAutomatepharmaceutical",
+      "canonical": "capa-readiness-board",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialMatching",
+      "sourceKey": "/patients",
+      "source": "/Volumes/external/projects/AIClinicalTrialMatching/frontend/src/App.js",
+      "canonical": "patients",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClinicalTrialMatching",
+      "sourceKey": "/trials",
+      "source": "/Volumes/external/projects/AIClinicalTrialMatching/frontend/src/App.js",
+      "canonical": "clinical-trials",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClinicalTrialMatching",
+      "sourceKey": "/matches",
+      "source": "/Volumes/external/projects/AIClinicalTrialMatching/frontend/src/App.js",
+      "canonical": "matches",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClinicalTrialMatching",
+      "sourceKey": "/eligibility",
+      "source": "/Volumes/external/projects/AIClinicalTrialMatching/frontend/src/App.js",
+      "canonical": "eligibility",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClinicalTrialMatching",
+      "sourceKey": "/sites",
+      "source": "/Volumes/external/projects/AIClinicalTrialMatching/frontend/src/App.js",
+      "canonical": "sites",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClinicalTrialMatching",
+      "sourceKey": "/enrollments",
+      "source": "/Volumes/external/projects/AIClinicalTrialMatching/frontend/src/App.js",
+      "canonical": "enrollments",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClinicalTrialMatching",
+      "sourceKey": "/retention-risk",
+      "source": "/Volumes/external/projects/AIClinicalTrialMatching/frontend/src/App.js",
+      "canonical": "retention-risk",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClinicalTrialMatching",
+      "sourceKey": "/adverse-events",
+      "source": "/Volumes/external/projects/AIClinicalTrialMatching/frontend/src/App.js",
+      "canonical": "adverse-event-signals",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClinicalTrialMatching",
+      "sourceKey": "/protocols",
+      "source": "/Volumes/external/projects/AIClinicalTrialMatching/frontend/src/App.js",
+      "canonical": "protocols",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClinicalTrialMatching",
+      "sourceKey": "/biomarkers",
+      "source": "/Volumes/external/projects/AIClinicalTrialMatching/frontend/src/App.js",
+      "canonical": "biomarkers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClinicalTrialMatching",
+      "sourceKey": "/drug-interactions",
+      "source": "/Volumes/external/projects/AIClinicalTrialMatching/frontend/src/App.js",
+      "canonical": "drug-interactions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClinicalTrialMatching",
+      "sourceKey": "/outcomes",
+      "source": "/Volumes/external/projects/AIClinicalTrialMatching/frontend/src/App.js",
+      "canonical": "outcomes",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClinicalTrialMatching",
+      "sourceKey": "/regulatory",
+      "source": "/Volumes/external/projects/AIClinicalTrialMatching/frontend/src/App.js",
+      "canonical": "regulatory",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClinicalTrialMatching",
+      "sourceKey": "/notifications",
+      "source": "/Volumes/external/projects/AIClinicalTrialMatching/frontend/src/App.js",
+      "canonical": "messages",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClinicalTrialMatching",
+      "sourceKey": "/reports",
+      "source": "/Volumes/external/projects/AIClinicalTrialMatching/frontend/src/App.js",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClinicalTrialMatching",
+      "sourceKey": "/webhooks",
+      "source": "/Volumes/external/projects/AIClinicalTrialMatching/frontend/src/App.js",
+      "canonical": "webhooks",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClinicalTrialMatching",
+      "sourceKey": "/integrations",
+      "source": "/Volumes/external/projects/AIClinicalTrialMatching/frontend/src/App.js",
+      "canonical": "connections",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClinicalTrialMatching",
+      "sourceKey": "Patient-Trial Matching",
+      "source": "/Volumes/external/projects/AIClinicalTrialMatching/frontend/src/pages/AIToolsPage.js",
+      "canonical": "patient-trial-matching",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClinicalTrialMatching",
+      "sourceKey": "Eligibility Screening",
+      "source": "/Volumes/external/projects/AIClinicalTrialMatching/frontend/src/pages/AIToolsPage.js",
+      "canonical": "eligibility-screening",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClinicalTrialMatching",
+      "sourceKey": "Biomarker Analysis",
+      "source": "/Volumes/external/projects/AIClinicalTrialMatching/frontend/src/pages/AIToolsPage.js",
+      "canonical": "biomarker-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClinicalTrialMatching",
+      "sourceKey": "Drug Interaction Checker",
+      "source": "/Volumes/external/projects/AIClinicalTrialMatching/frontend/src/pages/AIToolsPage.js",
+      "canonical": "drug-interaction-checker",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClinicalTrialMatching",
+      "sourceKey": "Outcome Prediction",
+      "source": "/Volumes/external/projects/AIClinicalTrialMatching/frontend/src/pages/AIToolsPage.js",
+      "canonical": "outcome-prediction",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClinicalTrialMatching",
+      "sourceKey": "Protocol Analysis",
+      "source": "/Volumes/external/projects/AIClinicalTrialMatching/frontend/src/pages/AIToolsPage.js",
+      "canonical": "protocol-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClinicalTrialMatching",
+      "sourceKey": "Adverse Event Analysis",
+      "source": "/Volumes/external/projects/AIClinicalTrialMatching/frontend/src/pages/AIToolsPage.js",
+      "canonical": "adverse-event-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClinicalTrialMatching",
+      "sourceKey": "Regulatory Compliance Check",
+      "source": "/Volumes/external/projects/AIClinicalTrialMatching/frontend/src/pages/AIToolsPage.js",
+      "canonical": "regulatory-compliance-check",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClinicalTrialMatching",
+      "sourceKey": "Report Generation",
+      "source": "/Volumes/external/projects/AIClinicalTrialMatching/frontend/src/pages/AIToolsPage.js",
+      "canonical": "report-generation",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClinicalTrialMatching",
+      "sourceKey": "Enrollment Optimization",
+      "source": "/Volumes/external/projects/AIClinicalTrialMatching/frontend/src/pages/AIToolsPage.js",
+      "canonical": "enrollment-optimization",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClinicalTrialMatching",
+      "sourceKey": "Cohort Analysis",
+      "source": "/Volumes/external/projects/AIClinicalTrialMatching/frontend/src/pages/AIToolsPage.js",
+      "canonical": "cohort-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClinicalTrialMatching",
+      "sourceKey": "Protocol Optimizer",
+      "source": "/Volumes/external/projects/AIClinicalTrialMatching/frontend/src/pages/AIToolsPage.js",
+      "canonical": "protocol-optimizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClinicalTrialMatching",
+      "sourceKey": "Consent Simplifier",
+      "source": "/Volumes/external/projects/AIClinicalTrialMatching/frontend/src/pages/AIToolsPage.js",
+      "canonical": "consent-simplifier",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClinicalTrialMatching",
+      "sourceKey": "Pre-Screening Batch",
+      "source": "/Volumes/external/projects/AIClinicalTrialMatching/frontend/src/pages/AIToolsPage.js",
+      "canonical": "pre-screening-batch",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClinicalTrialMatching",
+      "sourceKey": "Biomarker Trend Predictor",
+      "source": "/Volumes/external/projects/AIClinicalTrialMatching/frontend/src/pages/AIToolsPage.js",
+      "canonical": "biomarker-trend-predictor",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClinicalTrialMatching",
+      "sourceKey": "Site Feasibility Ranker",
+      "source": "/Volumes/external/projects/AIClinicalTrialMatching/frontend/src/pages/AIToolsPage.js",
+      "canonical": "site-feasibility-ranker",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClinicalTrialMatching",
+      "sourceKey": "Protocol Version Diff",
+      "source": "/Volumes/external/projects/AIClinicalTrialMatching/frontend/src/pages/AIToolsPage.js",
+      "canonical": "protocol-version-diff",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClinicalTrialMatching",
+      "sourceKey": "Multi-Trial Cohort Builder",
+      "source": "/Volumes/external/projects/AIClinicalTrialMatching/frontend/src/pages/AIToolsPage.js",
+      "canonical": "multi-trial-cohort-builder",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClinicalTrialMatching",
+      "sourceKey": "Outcome Ensemble",
+      "source": "/Volumes/external/projects/AIClinicalTrialMatching/frontend/src/pages/AIToolsPage.js",
+      "canonical": "outcome-ensemble",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClinicalTrialMatching",
+      "sourceKey": "Regulatory Readiness Dashboard",
+      "source": "/Volumes/external/projects/AIClinicalTrialMatching/frontend/src/pages/AIToolsPage.js",
+      "canonical": "regulatory-readiness-dashboard",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClinicalTrialMatching",
+      "sourceKey": "Dropout Risk Predictor",
+      "source": "/Volumes/external/projects/AIClinicalTrialMatching/frontend/src/pages/AIToolsPage.js",
+      "canonical": "dropout-risk-predictor",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClinicalTrialMatching",
+      "sourceKey": "Site Network Optimizer",
+      "source": "/Volumes/external/projects/AIClinicalTrialMatching/frontend/src/pages/AIToolsPage.js",
+      "canonical": "site-network-optimizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "trials",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "trials",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "sites",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "sites",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "protocols",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "protocols",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "investigators",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "investigators",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "patients",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "patients",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "recruitment-matching",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "recruitment-matching",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "compounds",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "compounds",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "endpoints",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "endpoints",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "adverse-events",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "adverse-event-signals",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "amendments",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "amendments",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "deviations",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "deviations",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "monitoring-visits",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "monitoring-visits",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "site-activation-risk",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "site-activation-risk",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "queries",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "queries",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "data-locks",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "data-locks",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "milestones",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "milestones",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "budgets",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "budgets",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "vendors-cro",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "vendors-cro",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "regulatory-submissions",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "regulatory-submissions",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "supply-shipments",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "supply-shipments",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "ai/draft-protocol",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "draft-protocol",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "ai/recommend-endpoints",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "recommend-endpoints",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "ai/size-cohort",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "size-cohort",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "ai/select-sites",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "select-sites",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "ai/model-risk",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "model-risk",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "ai/generate-brief",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "generate-brief",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "ai/deviation-classifier",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "deviation-classifier",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "ai/dsmb-alert",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "dsmb-alert",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "ai/edc-anomaly",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "edc-anomaly",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "ai/statistical-imbalance",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "statistical-imbalance",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "ai/expected-vs-actual",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "expected-vs-actual",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "ai/irb-pkg-drafter",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "irb-pkg-drafter",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "ai/query-resolver",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "query-resolver",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "ai/milestone-forecaster",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "milestone-forecaster",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "ai/budget-burn",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "budget-burn",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "ai/regulatory-impact",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "regulatory-impact",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "webhooks",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "webhooks",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "bulk-import",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "bulk-import",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "ai/power-calc-explain",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "power-calc-explain",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "ai/patient-burden",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "patient-burden",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "ai/ie-optimizer",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "ie-optimizer",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "ai/ind-nda-section",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "ind-nda-section",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "ai/dropout-predictor",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "dropout-predictor",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "ai/adaptive-sim",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "adaptive-sim",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "ai/rwe-match",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "rwe-match",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "comparable-trials",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "comparable-trials",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "protocol-version-graph",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "protocol-version-graph",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "irb-workflows",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "irb-workflows",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "integrations",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "connections",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "randomization",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "randomization",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "sdtm-export",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "sdtm-export",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "dsmb-packet",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "dsmb-packet",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "enrollment-forecast",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "enrollment-forecast",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "ai/meddra-code",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "meddra-code",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "ai/safety-narrative",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "safety-narrative",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "form-1572",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "form-1572",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "delegation-log",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "delegation-log",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "training-records",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "training-records",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "ctgov-search",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "ctgov-search",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "design-sim",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "design-sim",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "audit-trail",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "audit-trail",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "econsent",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "econsent",
+      "kind": "route"
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "sourceKey": "production-readiness",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "canonical": "production-readiness",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "trials",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "trials",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "sites",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "sites",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "protocols",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "protocols",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "investigators",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "investigators",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "patients",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "patients",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "compounds",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "compounds",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "endpoints",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "endpoints",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "adverse-events",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "adverse-event-signals",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "amendments",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "amendments",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "deviations",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "deviations",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "monitoring-visits",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "monitoring-visits",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "site-activation-risk",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "site-activation-risk",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "queries",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "queries",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "data-locks",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "data-locks",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "milestones",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "milestones",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "budgets",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "budgets",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "vendors-cro",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "vendors-cro",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "regulatory-submissions",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "regulatory-submissions",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "supply-shipments",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "supply-shipments",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "ai/draft-protocol",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "draft-protocol",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "ai/recommend-endpoints",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "recommend-endpoints",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "ai/size-cohort",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "size-cohort",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "ai/select-sites",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "select-sites",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "ai/model-risk",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "model-risk",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "ai/generate-brief",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "generate-brief",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "ai/deviation-classifier",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "deviation-classifier",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "ai/dsmb-alert",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "dsmb-alert",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "ai/edc-anomaly",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "edc-anomaly",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "ai/statistical-imbalance",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "statistical-imbalance",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "ai/expected-vs-actual",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "expected-vs-actual",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "ai/irb-pkg-drafter",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "irb-pkg-drafter",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "ai/query-resolver",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "query-resolver",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "ai/milestone-forecaster",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "milestone-forecaster",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "ai/budget-burn",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "budget-burn",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "ai/regulatory-impact",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "regulatory-impact",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "webhooks",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "webhooks",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "bulk-import",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "bulk-import",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "ai/power-calc-explain",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "power-calc-explain",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "ai/patient-burden",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "patient-burden",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "ai/ie-optimizer",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "ie-optimizer",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "ai/ind-nda-section",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "ind-nda-section",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "ai/dropout-predictor",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "dropout-predictor",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "ai/adaptive-sim",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "adaptive-sim",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "ai/rwe-match",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "rwe-match",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "comparable-trials",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "comparable-trials",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "protocol-version-graph",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "protocol-version-graph",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "irb-workflows",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "irb-workflows",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "integrations",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "connections",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "randomization",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "randomization",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "sdtm-export",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "sdtm-export",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "dsmb-packet",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "dsmb-packet",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "enrollment-forecast",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "enrollment-forecast",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "ai/meddra-code",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "meddra-code",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "ai/safety-narrative",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "safety-narrative",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "form-1572",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "form-1572",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "delegation-log",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "delegation-log",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "training-records",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "training-records",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "ctgov-search",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "ctgov-search",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "design-sim",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "design-sim",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "audit-trail",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "audit-trail",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "econsent",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "econsent",
+      "kind": "route"
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "sourceKey": "production-readiness",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "canonical": "production-readiness",
+      "kind": "route"
+    },
+    {
+      "project": "AIpoweredembryo",
+      "sourceKey": "patients",
+      "source": "/Volumes/external/projects/AIpoweredembryo",
+      "canonical": "patients",
+      "kind": "route"
+    },
+    {
+      "project": "AIpoweredembryo",
+      "sourceKey": "cycles",
+      "source": "/Volumes/external/projects/AIpoweredembryo",
+      "canonical": "cycles",
+      "kind": "route"
+    },
+    {
+      "project": "AIpoweredembryo",
+      "sourceKey": "embryos",
+      "source": "/Volumes/external/projects/AIpoweredembryo",
+      "canonical": "embryos",
+      "kind": "route"
+    },
+    {
+      "project": "AIpoweredembryo",
+      "sourceKey": "ai-scores",
+      "source": "/Volumes/external/projects/AIpoweredembryo",
+      "canonical": "scores",
+      "kind": "route"
+    },
+    {
+      "project": "AIpoweredembryo",
+      "sourceKey": "predictions",
+      "source": "/Volumes/external/projects/AIpoweredembryo",
+      "canonical": "predictions",
+      "kind": "route"
+    },
+    {
+      "project": "AIpoweredembryo",
+      "sourceKey": "doctors",
+      "source": "/Volumes/external/projects/AIpoweredembryo",
+      "canonical": "doctors",
+      "kind": "route"
+    },
+    {
+      "project": "AIpoweredembryo",
+      "sourceKey": "lab-results",
+      "source": "/Volumes/external/projects/AIpoweredembryo",
+      "canonical": "lab-results",
+      "kind": "route"
+    },
+    {
+      "project": "AIpoweredembryo",
+      "sourceKey": "genetic-screenings",
+      "source": "/Volumes/external/projects/AIpoweredembryo",
+      "canonical": "genetic-screenings",
+      "kind": "route"
+    },
+    {
+      "project": "AIpoweredembryo",
+      "sourceKey": "transfer-plans",
+      "source": "/Volumes/external/projects/AIpoweredembryo",
+      "canonical": "transfer-plans",
+      "kind": "route"
+    },
+    {
+      "project": "AIpoweredembryo",
+      "sourceKey": "quality-control",
+      "source": "/Volumes/external/projects/AIpoweredembryo",
+      "canonical": "quality-control",
+      "kind": "route"
+    },
+    {
+      "project": "AIpoweredembryo",
+      "sourceKey": "ai-reports",
+      "source": "/Volumes/external/projects/AIpoweredembryo",
+      "canonical": "reports",
+      "kind": "route"
+    },
+    {
+      "project": "AIpoweredembryo",
+      "sourceKey": "lab-anomaly-detect",
+      "source": "/Volumes/external/projects/AIpoweredembryo",
+      "canonical": "lab-anomaly-detect",
+      "kind": "route"
+    },
+    {
+      "project": "AIpoweredembryo",
+      "sourceKey": "genetic-risk-assess",
+      "source": "/Volumes/external/projects/AIpoweredembryo",
+      "canonical": "genetic-risk-assess",
+      "kind": "route"
+    },
+    {
+      "project": "AIpoweredembryo",
+      "sourceKey": "appointments",
+      "source": "/Volumes/external/projects/AIpoweredembryo",
+      "canonical": "appointments",
+      "kind": "route"
+    },
+    {
+      "project": "AIpoweredembryo",
+      "sourceKey": "billing",
+      "source": "/Volumes/external/projects/AIpoweredembryo",
+      "canonical": "billing",
+      "kind": "route"
+    },
+    {
+      "project": "AIpoweredembryo",
+      "sourceKey": "cf-agentic-embryo-selection",
+      "source": "/Volumes/external/projects/AIpoweredembryo",
+      "canonical": "agentic-embryo-selection",
+      "kind": "route"
+    },
+    {
+      "project": "AIpoweredembryo",
+      "sourceKey": "cf-computer-vision-embryo-grading",
+      "source": "/Volumes/external/projects/AIpoweredembryo",
+      "canonical": "computer-vision-embryo-grading",
+      "kind": "route"
+    },
+    {
+      "project": "AIpoweredembryo",
+      "sourceKey": "cf-implantation-probability",
+      "source": "/Volumes/external/projects/AIpoweredembryo",
+      "canonical": "implantation-probability",
+      "kind": "route"
+    },
+    {
+      "project": "AIpoweredembryo",
+      "sourceKey": "cf-genetic-disease-screening-assistant",
+      "source": "/Volumes/external/projects/AIpoweredembryo",
+      "canonical": "genetic-disease-screening-assistant",
+      "kind": "route"
+    },
+    {
+      "project": "AIpoweredembryo",
+      "sourceKey": "cf-cycle-protocol-optimization",
+      "source": "/Volumes/external/projects/AIpoweredembryo",
+      "canonical": "cycle-protocol-optimization",
+      "kind": "route"
+    },
+    {
+      "project": "AIpoweredembryo",
+      "sourceKey": "gap-ai-route-stubs-ai",
+      "source": "/Volumes/external/projects/AIpoweredembryo",
+      "canonical": "ai-route-stubs-ai",
+      "kind": "route"
+    },
+    {
+      "project": "AIpoweredembryo",
+      "sourceKey": "gap-embryos-without-exposed-embryo",
+      "source": "/Volumes/external/projects/AIpoweredembryo",
+      "canonical": "embryos-without-exposed-embryo",
+      "kind": "route"
+    },
+    {
+      "project": "AIpoweredembryo",
+      "sourceKey": "gap-genetic",
+      "source": "/Volumes/external/projects/AIpoweredembryo",
+      "canonical": "genetic",
+      "kind": "route"
+    },
+    {
+      "project": "AIpoweredembryo",
+      "sourceKey": "gap-lab",
+      "source": "/Volumes/external/projects/AIpoweredembryo",
+      "canonical": "lab",
+      "kind": "route"
+    },
+    {
+      "project": "AIpoweredembryo",
+      "sourceKey": "gap-lims-and-ehr-modules-exist-but-real-adapters-not-v",
+      "source": "/Volumes/external/projects/AIpoweredembryo",
+      "canonical": "lims-and-ehr-modules-exist-but-real-adapters-not-v",
+      "kind": "route"
+    },
+    {
+      "project": "AIpoweredembryo",
+      "sourceKey": "gap-limited-regulatory-compliance-tracking-depth-cap-c",
+      "source": "/Volumes/external/projects/AIpoweredembryo",
+      "canonical": "limited-regulatory-compliance-tracking-depth-cap-c",
+      "kind": "route"
+    },
+    {
+      "project": "AIpoweredembryo",
+      "sourceKey": "gap-no-webhooks-for-lab-events",
+      "source": "/Volumes/external/projects/AIpoweredembryo",
+      "canonical": "webhooks-for-lab-events",
+      "kind": "route"
+    },
+    {
+      "project": "AIpoweredembryo",
+      "sourceKey": "gap-no-notifications-module-grep-0",
+      "source": "/Volumes/external/projects/AIpoweredembryo",
+      "canonical": "notifications-module-grep-0",
+      "kind": "route"
+    },
+    {
+      "project": "AIpoweredembryo",
+      "sourceKey": "gap-no-mobile-app-for-embryologists",
+      "source": "/Volumes/external/projects/AIpoweredembryo",
+      "canonical": "mobile-app-for-embryologists",
+      "kind": "route"
+    },
+    {
+      "project": "AIpoweredembryo",
+      "sourceKey": "gap-limited-frontend-pages-15-for-21",
+      "source": "/Volumes/external/projects/AIpoweredembryo",
+      "canonical": "limited-frontend-pages-15-for-21",
+      "kind": "route"
+    },
+    {
+      "project": "alzheimers-research-care-operations-hub",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/alzheimers-research-care-operations-hub/public/app.js",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "medical-affairs-mlr-review-suite",
+      "sourceKey": "rules",
+      "source": "/Volumes/external/projects/medical-affairs-mlr-review-suite/public/app.js",
+      "canonical": "rules",
+      "kind": "definition"
+    },
+    {
+      "project": "medical-affairs-mlr-review-suite",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/medical-affairs-mlr-review-suite/public/app.js",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "pharmacovigilance-safety-case-suite",
+      "sourceKey": "rules",
+      "source": "/Volumes/external/projects/pharmacovigilance-safety-case-suite/public/app.js",
+      "canonical": "rules",
+      "kind": "definition"
+    },
+    {
+      "project": "pharmacovigilance-safety-case-suite",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/pharmacovigilance-safety-case-suite/public/app.js",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "tetrascience",
+      "sourceKey": "tetrascience",
+      "source": "/Volumes/external/projects/tetrascience",
+      "canonical": "tetrascience",
+      "kind": "source-workflow"
+    }
+  ],
+  "ignored": [
+    {
+      "project": "ai-clinical-research-medicare-coverage-billing-compliance",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-clinical-research-medicare-coverage-billing-compliance/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-clinical-trial-site-budget-payment-reconciliation",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-clinical-trial-site-budget-payment-reconciliation/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-personalized-medicine",
+      "key": "/dashboard",
+      "source": "/Volumes/external/projects/ai-personalized-medicine/frontend/src/components/Layout.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-personalized-medicine",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/ai-personalized-medicine/frontend/src/components/Layout.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-personalized-medicine",
+      "key": "/ai-center",
+      "source": "/Volumes/external/projects/ai-personalized-medicine/frontend/src/components/Layout.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-personalized-medicine",
+      "key": "/sample-data",
+      "source": "/Volumes/external/projects/ai-personalized-medicine/frontend/src/components/Layout.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-personalized-medicine",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/ai-personalized-medicine",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-personalized-medicine",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/ai-personalized-medicine",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-personalized-medicine",
+      "key": "login",
+      "source": "/Volumes/external/projects/ai-personalized-medicine",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-personalized-medicine",
+      "key": "/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "ai-personalized-medicine",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "ai-personalized-medicine",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-personalized-medicine",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-personalized-medicine",
+      "key": "ai-center",
+      "source": "/Volumes/external/projects/ai-personalized-medicine",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-personalized-medicine",
+      "key": "sample-data",
+      "source": "/Volumes/external/projects/ai-personalized-medicine",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-personalized-medicine",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/ai-personalized-medicine",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "key": "/",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/AIAcceleratedrug/frontend/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIAcceleratedrug",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIAcceleratedrug",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIAcceleratedrug",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAcceleratedrug",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIAutomatepharmaceutical",
+      "key": "/export/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIAutomatepharmaceutical",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIAutomatepharmaceutical",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAutomatepharmaceutical",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIAutomatepharmaceutical",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAutomatepharmaceutical",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIAutomatepharmaceutical",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAutomatepharmaceutical",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIAutomatepharmaceutical",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAutomatepharmaceutical",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIAutomatepharmaceutical",
+      "key": "/feature/:category",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIAutomatepharmaceutical",
+      "key": "/document/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIAutomatepharmaceutical",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIAutomatepharmaceutical",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAutomatepharmaceutical",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIClinicalTrialMatching",
+      "key": "/",
+      "source": "/Volumes/external/projects/AIClinicalTrialMatching/frontend/src/App.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIClinicalTrialMatching",
+      "key": "/ai-tools",
+      "source": "/Volumes/external/projects/AIClinicalTrialMatching/frontend/src/App.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIClinicalTrialMatching",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/AIClinicalTrialMatching/frontend/src/App.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIClinicalTrialMatching",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIClinicalTrialMatching",
+      "key": "ai-tools",
+      "source": "/Volumes/external/projects/AIClinicalTrialMatching",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIClinicalTrialMatching",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIClinicalTrialMatching",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIClinicalTrialMatching",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIClinicalTrialMatching",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIClinicalTrialMatching",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIClinicalTrialMatching",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIClinicalTrialMatching",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIClinicalTrialMatching",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIClinicalTrialMatching",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIClinicalTrialSuite",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIClinicalTrialSuite",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIPharmaTrialDesigner",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPharmaTrialDesigner",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIpoweredembryo",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIpoweredembryo",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIpoweredembryo",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIpoweredembryo",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIpoweredembryo",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIpoweredembryo",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIpoweredembryo",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIpoweredembryo",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIpoweredembryo",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIpoweredembryo",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIpoweredembryo",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "alzheimers-research-care-operations-hub",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/alzheimers-research-care-operations-hub/public/app.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "alzheimers-research-care-operations-hub",
+      "key": "ai-center",
+      "source": "/Volumes/external/projects/alzheimers-research-care-operations-hub/public/app.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "medical-affairs-mlr-review-suite",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/medical-affairs-mlr-review-suite/public/app.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "medical-affairs-mlr-review-suite",
+      "key": "ai-center",
+      "source": "/Volumes/external/projects/medical-affairs-mlr-review-suite/public/app.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "pharmacovigilance-safety-case-suite",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/pharmacovigilance-safety-case-suite/public/app.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "pharmacovigilance-safety-case-suite",
+      "key": "ai-center",
+      "source": "/Volumes/external/projects/pharmacovigilance-safety-case-suite/public/app.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    }
+  ],
+  "migrationWarnings": [
+    {
+      "feature": "study-protocol-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "coverage-analysis",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "national-coverage-rule-mapping",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "sponsor-budget-mapping",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "participant-enrollment",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "encounter-order-linking",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "routine-cost-determination",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "sponsor-paid-service-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "q0-q1-modifier-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "diagnosis-code-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "claim-prebill-review",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "sponsor-invoice-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "double-bill-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "correction-refund-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "study-billing-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cta-and-budget-grid-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "protocol-and-site-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "subject-enrollment-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "visit-and-procedure-earnings",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "screen-failure-payment-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "milestone-payment-tracking",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "start-up-fee-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "pass-through-cost-recovery",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "holdback-and-retainage-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "amendment-and-rate-effective-dates",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "invoice-generation-and-support",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "sponsor-payment-matching",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "payment-query-and-dispute-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "receivable-aging-and-forecasting",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "study-profitability-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "project": "tetrascience",
+      "reason": "No structured web feature declarations extracted. Source-specific engine/UI migration remains required."
+    }
+  ]
+}

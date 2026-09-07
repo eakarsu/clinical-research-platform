@@ -1,0 +1,80 @@
+[
+  {
+    "id": "ai-clinical-research-medicare-coverage-billing-compliance",
+    "name": "Clinical research medicare coverage billing compliance",
+    "sourceProject": "ai-clinical-research-medicare-coverage-billing-compliance",
+    "services": []
+  },
+  {
+    "id": "ai-clinical-trial-site-budget-payment-reconciliation",
+    "name": "Clinical trial site budget payment reconciliation",
+    "sourceProject": "ai-clinical-trial-site-budget-payment-reconciliation",
+    "services": []
+  },
+  {
+    "id": "ai-personalized-medicine",
+    "name": "Personalized medicine",
+    "sourceProject": "ai-personalized-medicine",
+    "services": []
+  },
+  {
+    "id": "AIAcceleratedrug",
+    "name": "Acceleratedrug",
+    "sourceProject": "AIAcceleratedrug",
+    "services": []
+  },
+  {
+    "id": "AIAutomatepharmaceutical",
+    "name": "Automatepharmaceutical",
+    "sourceProject": "AIAutomatepharmaceutical",
+    "services": []
+  },
+  {
+    "id": "AIClinicalTrialMatching",
+    "name": "Clinical trial matching",
+    "sourceProject": "AIClinicalTrialMatching",
+    "services": []
+  },
+  {
+    "id": "AIClinicalTrialSuite",
+    "name": "Clinical trial suite",
+    "sourceProject": "AIClinicalTrialSuite",
+    "services": []
+  },
+  {
+    "id": "AIPharmaTrialDesigner",
+    "name": "Pharma trial designer",
+    "sourceProject": "AIPharmaTrialDesigner",
+    "services": []
+  },
+  {
+    "id": "AIpoweredembryo",
+    "name": "Poweredembryo",
+    "sourceProject": "AIpoweredembryo",
+    "services": []
+  },
+  {
+    "id": "alzheimers-research-care-operations-hub",
+    "name": "Alzheimers research care operations hub",
+    "sourceProject": "alzheimers-research-care-operations-hub",
+    "services": []
+  },
+  {
+    "id": "medical-affairs-mlr-review-suite",
+    "name": "Medical affairs mlr review suite",
+    "sourceProject": "medical-affairs-mlr-review-suite",
+    "services": []
+  },
+  {
+    "id": "pharmacovigilance-safety-case-suite",
+    "name": "Pharmacovigilance safety case suite",
+    "sourceProject": "pharmacovigilance-safety-case-suite",
+    "services": []
+  },
+  {
+    "id": "tetrascience",
+    "name": "Tetrascience",
+    "sourceProject": "tetrascience",
+    "services": []
+  }
+]

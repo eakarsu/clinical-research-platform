@@ -1,0 +1,41 @@
+{
+  "id": "clinical-research-platform",
+  "title": "Clinical research & life sciences",
+  "buyer": "Clinical researchers and life-science teams",
+  "sourceCount": 13,
+  "sources": [
+    "ai-clinical-research-medicare-coverage-billing-compliance",
+    "ai-clinical-trial-site-budget-payment-reconciliation",
+    "ai-personalized-medicine",
+    "AIAcceleratedrug",
+    "AIAutomatepharmaceutical",
+    "AIClinicalTrialMatching",
+    "AIClinicalTrialSuite",
+    "AIPharmaTrialDesigner",
+    "AIpoweredembryo",
+    "alzheimers-research-care-operations-hub",
+    "medical-affairs-mlr-review-suite",
+    "pharmacovigilance-safety-case-suite",
+    "tetrascience"
+  ],
+  "status": "proposed build; not implemented",
+  "canonicalFeatureStatus": "Requires feature-level mapping and workflow migration; source route counts are not feature-completion counts.",
+  "port": 46011,
+  "productName": "Clinical research Workspace",
+  "runtimeVersion": "1.0.0",
+  "sourceRoots": [
+    "/Volumes/external/projects/ai-clinical-research-medicare-coverage-billing-compliance",
+    "/Volumes/external/projects/ai-clinical-trial-site-budget-payment-reconciliation",
+    "/Volumes/external/projects/ai-personalized-medicine",
+    "/Volumes/external/projects/AIAcceleratedrug",
+    "/Volumes/external/projects/AIAutomatepharmaceutical",
+    "/Volumes/external/projects/AIClinicalTrialMatching",
+    "/Volumes/external/projects/AIClinicalTrialSuite",
+    "/Volumes/external/projects/AIPharmaTrialDesigner",
+    "/Volumes/external/projects/AIpoweredembryo",
+    "/Volumes/external/projects/alzheimers-research-care-operations-hub",
+    "/Volumes/external/projects/medical-affairs-mlr-review-suite",
+    "/Volumes/external/projects/pharmacovigilance-safety-case-suite",
+    "/Volumes/external/projects/tetrascience"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "id": "clinical-research-platform",
+  "port": 46011,
+  "status": "passed",
+  "startScript": true,
+  "health": true,
+  "verifiedAt": "2026-09-07T14:38:29.751Z"
+}

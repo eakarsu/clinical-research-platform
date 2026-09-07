@@ -1,0 +1,915 @@
+[
+  {
+    "id": "ai-general",
+    "title": "General assistance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-general",
+    "featureIds": [
+      "calendar",
+      "study-protocol-registry",
+      "national-coverage-rule-mapping",
+      "encounter-order-linking",
+      "claim-prebill-review",
+      "protocol-and-site-registry",
+      "visit-and-procedure-earnings",
+      "amendment-and-rate-effective-dates",
+      "study-profitability-analytics",
+      "drug-interaction-check",
+      "sequence-validator",
+      "candidate-ranker",
+      "docking-integrator",
+      "patent-landscape",
+      "virtual-hts-simulator",
+      "competitive-intelligence",
+      "virtual-screening-pipeline",
+      "pub-chem-lookup",
+      "lab-automation-planner",
+      "toxicity",
+      "binding-affinity",
+      "drug-interaction",
+      "prompt-templates-preview",
+      "cost-analytics-log",
+      "batch",
+      "prompts",
+      "cross-doc",
+      "export",
+      "extra",
+      "extensions",
+      "drug-interaction-checker",
+      "pre-screening-batch",
+      "site-feasibility-ranker",
+      "protocol-version-diff",
+      "multi-trial-cohort-builder",
+      "outcome-ensemble",
+      "size-cohort",
+      "select-sites",
+      "generate-brief",
+      "dsmb-alert",
+      "statistical-imbalance",
+      "expected-vs-actual",
+      "query-resolver",
+      "power-calc-explain",
+      "patient-burden",
+      "ind-nda-section",
+      "adaptive-sim",
+      "rwe-match",
+      "meddra-code",
+      "training-records",
+      "genetic-disease-screening-assistant",
+      "ai-route-stubs-ai",
+      "tetrascience"
+    ],
+    "ai": true,
+    "representativeId": "calendar",
+    "description": "One assistant for 53 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "calendar",
+        "title": "Calendar",
+        "originalPath": "/features/calendar"
+      },
+      {
+        "id": "study-protocol-registry",
+        "title": "Study protocol registry",
+        "originalPath": "/features/study-protocol-registry"
+      },
+      {
+        "id": "national-coverage-rule-mapping",
+        "title": "National coverage rule mapping",
+        "originalPath": "/features/national-coverage-rule-mapping"
+      },
+      {
+        "id": "encounter-order-linking",
+        "title": "Encounter order linking",
+        "originalPath": "/features/encounter-order-linking"
+      },
+      {
+        "id": "claim-prebill-review",
+        "title": "Claim prebill review",
+        "originalPath": "/features/claim-prebill-review"
+      },
+      {
+        "id": "protocol-and-site-registry",
+        "title": "Protocol and site registry",
+        "originalPath": "/features/protocol-and-site-registry"
+      },
+      {
+        "id": "visit-and-procedure-earnings",
+        "title": "Visit and procedure earnings",
+        "originalPath": "/features/visit-and-procedure-earnings"
+      },
+      {
+        "id": "amendment-and-rate-effective-dates",
+        "title": "Amendment and rate effective dates",
+        "originalPath": "/features/amendment-and-rate-effective-dates"
+      },
+      {
+        "id": "study-profitability-analytics",
+        "title": "Study profitability analytics",
+        "originalPath": "/features/study-profitability-analytics"
+      },
+      {
+        "id": "drug-interaction-check",
+        "title": "AI Drug Interaction Check",
+        "originalPath": "/features/drug-interaction-check"
+      },
+      {
+        "id": "sequence-validator",
+        "title": "Sequence Validator",
+        "originalPath": "/features/sequence-validator"
+      },
+      {
+        "id": "candidate-ranker",
+        "title": "Candidate Ranker",
+        "originalPath": "/features/candidate-ranker"
+      },
+      {
+        "id": "docking-integrator",
+        "title": "Docking Integrator",
+        "originalPath": "/features/docking-integrator"
+      },
+      {
+        "id": "patent-landscape",
+        "title": "Patent Landscape",
+        "originalPath": "/features/patent-landscape"
+      },
+      {
+        "id": "virtual-hts-simulator",
+        "title": "Virtual HTS Simulator",
+        "originalPath": "/features/virtual-hts-simulator"
+      },
+      {
+        "id": "competitive-intelligence",
+        "title": "Competitive Intelligence",
+        "originalPath": "/features/competitive-intelligence"
+      },
+      {
+        "id": "virtual-screening-pipeline",
+        "title": "Virtual Screening Pipeline",
+        "originalPath": "/features/virtual-screening-pipeline"
+      },
+      {
+        "id": "pub-chem-lookup",
+        "title": "PubChem Lookup",
+        "originalPath": "/features/pub-chem-lookup"
+      },
+      {
+        "id": "lab-automation-planner",
+        "title": "Lab Automation Planner",
+        "originalPath": "/features/lab-automation-planner"
+      },
+      {
+        "id": "toxicity",
+        "title": "Toxicity Data",
+        "originalPath": "/features/toxicity"
+      },
+      {
+        "id": "binding-affinity",
+        "title": "AI Binding Affinity",
+        "originalPath": "/features/binding-affinity"
+      },
+      {
+        "id": "drug-interaction",
+        "title": "AI Drug Interaction",
+        "originalPath": "/features/drug-interaction"
+      },
+      {
+        "id": "prompt-templates-preview",
+        "title": "Preview",
+        "originalPath": "/features/prompt-templates-preview"
+      },
+      {
+        "id": "cost-analytics-log",
+        "title": "Log",
+        "originalPath": "/features/cost-analytics-log"
+      },
+      {
+        "id": "batch",
+        "title": "Batch",
+        "originalPath": "/features/batch"
+      },
+      {
+        "id": "prompts",
+        "title": "Prompts",
+        "originalPath": "/features/prompts"
+      },
+      {
+        "id": "cross-doc",
+        "title": "Cross doc",
+        "originalPath": "/features/cross-doc"
+      },
+      {
+        "id": "export",
+        "title": "Export",
+        "originalPath": "/features/export"
+      },
+      {
+        "id": "extra",
+        "title": "Extra",
+        "originalPath": "/features/extra"
+      },
+      {
+        "id": "extensions",
+        "title": "Extensions",
+        "originalPath": "/features/extensions"
+      },
+      {
+        "id": "drug-interaction-checker",
+        "title": "Drug Interaction Checker",
+        "originalPath": "/features/drug-interaction-checker"
+      },
+      {
+        "id": "pre-screening-batch",
+        "title": "Pre-Screening Batch",
+        "originalPath": "/features/pre-screening-batch"
+      },
+      {
+        "id": "site-feasibility-ranker",
+        "title": "Site Feasibility Ranker",
+        "originalPath": "/features/site-feasibility-ranker"
+      },
+      {
+        "id": "protocol-version-diff",
+        "title": "Protocol Version Diff",
+        "originalPath": "/features/protocol-version-diff"
+      },
+      {
+        "id": "multi-trial-cohort-builder",
+        "title": "Multi-Trial Cohort Builder",
+        "originalPath": "/features/multi-trial-cohort-builder"
+      },
+      {
+        "id": "outcome-ensemble",
+        "title": "Outcome Ensemble",
+        "originalPath": "/features/outcome-ensemble"
+      },
+      {
+        "id": "size-cohort",
+        "title": "Size cohort",
+        "originalPath": "/features/size-cohort"
+      },
+      {
+        "id": "select-sites",
+        "title": "Select sites",
+        "originalPath": "/features/select-sites"
+      },
+      {
+        "id": "generate-brief",
+        "title": "Generate brief",
+        "originalPath": "/features/generate-brief"
+      },
+      {
+        "id": "dsmb-alert",
+        "title": "Dsmb alert",
+        "originalPath": "/features/dsmb-alert"
+      },
+      {
+        "id": "statistical-imbalance",
+        "title": "Statistical imbalance",
+        "originalPath": "/features/statistical-imbalance"
+      },
+      {
+        "id": "expected-vs-actual",
+        "title": "Expected vs actual",
+        "originalPath": "/features/expected-vs-actual"
+      },
+      {
+        "id": "query-resolver",
+        "title": "Query resolver",
+        "originalPath": "/features/query-resolver"
+      },
+      {
+        "id": "power-calc-explain",
+        "title": "Power calc explain",
+        "originalPath": "/features/power-calc-explain"
+      },
+      {
+        "id": "patient-burden",
+        "title": "Patient burden",
+        "originalPath": "/features/patient-burden"
+      },
+      {
+        "id": "ind-nda-section",
+        "title": "Ind nda section",
+        "originalPath": "/features/ind-nda-section"
+      },
+      {
+        "id": "adaptive-sim",
+        "title": "Adaptive sim",
+        "originalPath": "/features/adaptive-sim"
+      },
+      {
+        "id": "rwe-match",
+        "title": "Rwe match",
+        "originalPath": "/features/rwe-match"
+      },
+      {
+        "id": "meddra-code",
+        "title": "Meddra code",
+        "originalPath": "/features/meddra-code"
+      },
+      {
+        "id": "training-records",
+        "title": "Training records",
+        "originalPath": "/features/training-records"
+      },
+      {
+        "id": "genetic-disease-screening-assistant",
+        "title": "genetic disease screening assistant",
+        "originalPath": "/features/genetic-disease-screening-assistant"
+      },
+      {
+        "id": "ai-route-stubs-ai",
+        "title": "ai route stubs ai",
+        "originalPath": "/features/ai-route-stubs-ai"
+      },
+      {
+        "id": "tetrascience",
+        "title": "Tetrascience work",
+        "originalPath": "/features/tetrascience"
+      }
+    ]
+  },
+  {
+    "id": "ai-documents",
+    "title": "Writing, documents & knowledge",
+    "group": "AI assistants",
+    "path": "/assistants/ai-documents",
+    "featureIds": [
+      "notes",
+      "documents",
+      "templates",
+      "cross-document-analysis",
+      "report-generation",
+      "draft-protocol",
+      "irb-pkg-drafter"
+    ],
+    "ai": true,
+    "representativeId": "notes",
+    "description": "One assistant for 7 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "notes",
+        "title": "Notes",
+        "originalPath": "/features/notes"
+      },
+      {
+        "id": "documents",
+        "title": "Documents",
+        "originalPath": "/features/documents"
+      },
+      {
+        "id": "templates",
+        "title": "Templates",
+        "originalPath": "/features/templates"
+      },
+      {
+        "id": "cross-document-analysis",
+        "title": "Cross document analysis",
+        "originalPath": "/features/cross-document-analysis"
+      },
+      {
+        "id": "report-generation",
+        "title": "Report Generation",
+        "originalPath": "/features/report-generation"
+      },
+      {
+        "id": "draft-protocol",
+        "title": "Draft protocol",
+        "originalPath": "/features/draft-protocol"
+      },
+      {
+        "id": "irb-pkg-drafter",
+        "title": "Irb pkg drafter",
+        "originalPath": "/features/irb-pkg-drafter"
+      }
+    ]
+  },
+  {
+    "id": "ai-insights",
+    "title": "Insights & recommendations",
+    "group": "AI assistants",
+    "path": "/assistants/ai-insights",
+    "featureIds": [
+      "coverage-analysis",
+      "sponsor-paid-service-detection",
+      "double-bill-detection",
+      "receivable-aging-and-forecasting",
+      "toxicity-predictions",
+      "binding-affinity-prediction",
+      "toxicity-prediction",
+      "structure-prediction",
+      "admet-prediction",
+      "literature-analysis",
+      "solubility-predictor",
+      "off-target-predictor",
+      "formulation-recommender",
+      "sar-analyzer",
+      "predictive-trial-success",
+      "multi-objective-optimizer",
+      "structure",
+      "admet",
+      "predict-solubility",
+      "predict-off-targets",
+      "compliance-trends-analyze",
+      "regulatory-calendar-predict",
+      "trends",
+      "matches",
+      "patient-trial-matching",
+      "biomarker-analysis",
+      "outcome-prediction",
+      "protocol-analysis",
+      "adverse-event-analysis",
+      "cohort-analysis",
+      "protocol-optimizer",
+      "biomarker-trend-predictor",
+      "site-network-optimizer",
+      "recommend-endpoints",
+      "deviation-classifier",
+      "milestone-forecaster",
+      "ie-optimizer",
+      "dropout-predictor",
+      "scores",
+      "predictions"
+    ],
+    "ai": true,
+    "representativeId": "coverage-analysis",
+    "description": "One assistant for 40 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "coverage-analysis",
+        "title": "Coverage analysis",
+        "originalPath": "/features/coverage-analysis"
+      },
+      {
+        "id": "sponsor-paid-service-detection",
+        "title": "Sponsor-paid service detection",
+        "originalPath": "/features/sponsor-paid-service-detection"
+      },
+      {
+        "id": "double-bill-detection",
+        "title": "Double-bill detection",
+        "originalPath": "/features/double-bill-detection"
+      },
+      {
+        "id": "receivable-aging-and-forecasting",
+        "title": "Receivable aging and forecasting",
+        "originalPath": "/features/receivable-aging-and-forecasting"
+      },
+      {
+        "id": "toxicity-predictions",
+        "title": "Toxicity Predictions",
+        "originalPath": "/features/toxicity-predictions"
+      },
+      {
+        "id": "binding-affinity-prediction",
+        "title": "AI Binding Affinity Prediction",
+        "originalPath": "/features/binding-affinity-prediction"
+      },
+      {
+        "id": "toxicity-prediction",
+        "title": "AI Toxicity Prediction",
+        "originalPath": "/features/toxicity-prediction"
+      },
+      {
+        "id": "structure-prediction",
+        "title": "AI Structure Prediction",
+        "originalPath": "/features/structure-prediction"
+      },
+      {
+        "id": "admet-prediction",
+        "title": "AI ADMET Prediction",
+        "originalPath": "/features/admet-prediction"
+      },
+      {
+        "id": "literature-analysis",
+        "title": "AI Literature Analysis",
+        "originalPath": "/features/literature-analysis"
+      },
+      {
+        "id": "solubility-predictor",
+        "title": "Solubility Predictor",
+        "originalPath": "/features/solubility-predictor"
+      },
+      {
+        "id": "off-target-predictor",
+        "title": "Off-Target Predictor",
+        "originalPath": "/features/off-target-predictor"
+      },
+      {
+        "id": "formulation-recommender",
+        "title": "Formulation Recommender",
+        "originalPath": "/features/formulation-recommender"
+      },
+      {
+        "id": "sar-analyzer",
+        "title": "SAR Analyzer",
+        "originalPath": "/features/sar-analyzer"
+      },
+      {
+        "id": "predictive-trial-success",
+        "title": "Predictive Trial Success",
+        "originalPath": "/features/predictive-trial-success"
+      },
+      {
+        "id": "multi-objective-optimizer",
+        "title": "Multi-Objective Optimizer",
+        "originalPath": "/features/multi-objective-optimizer"
+      },
+      {
+        "id": "structure",
+        "title": "AI Structure Predict",
+        "originalPath": "/features/structure"
+      },
+      {
+        "id": "admet",
+        "title": "AI ADMET Predict",
+        "originalPath": "/features/admet"
+      },
+      {
+        "id": "predict-solubility",
+        "title": "Solubility Predict",
+        "originalPath": "/features/predict-solubility"
+      },
+      {
+        "id": "predict-off-targets",
+        "title": "Off-Target Predict",
+        "originalPath": "/features/predict-off-targets"
+      },
+      {
+        "id": "compliance-trends-analyze",
+        "title": "Analyze",
+        "originalPath": "/features/compliance-trends-analyze"
+      },
+      {
+        "id": "regulatory-calendar-predict",
+        "title": "Predict",
+        "originalPath": "/features/regulatory-calendar-predict"
+      },
+      {
+        "id": "trends",
+        "title": "Trends",
+        "originalPath": "/features/trends"
+      },
+      {
+        "id": "matches",
+        "title": "AI Matching",
+        "originalPath": "/features/matches"
+      },
+      {
+        "id": "patient-trial-matching",
+        "title": "Patient-Trial Matching",
+        "originalPath": "/features/patient-trial-matching"
+      },
+      {
+        "id": "biomarker-analysis",
+        "title": "Biomarker Analysis",
+        "originalPath": "/features/biomarker-analysis"
+      },
+      {
+        "id": "outcome-prediction",
+        "title": "Outcome Prediction",
+        "originalPath": "/features/outcome-prediction"
+      },
+      {
+        "id": "protocol-analysis",
+        "title": "Protocol Analysis",
+        "originalPath": "/features/protocol-analysis"
+      },
+      {
+        "id": "adverse-event-analysis",
+        "title": "Adverse Event Analysis",
+        "originalPath": "/features/adverse-event-analysis"
+      },
+      {
+        "id": "cohort-analysis",
+        "title": "Cohort Analysis",
+        "originalPath": "/features/cohort-analysis"
+      },
+      {
+        "id": "protocol-optimizer",
+        "title": "Protocol Optimizer",
+        "originalPath": "/features/protocol-optimizer"
+      },
+      {
+        "id": "biomarker-trend-predictor",
+        "title": "Biomarker Trend Predictor",
+        "originalPath": "/features/biomarker-trend-predictor"
+      },
+      {
+        "id": "site-network-optimizer",
+        "title": "Site Network Optimizer",
+        "originalPath": "/features/site-network-optimizer"
+      },
+      {
+        "id": "recommend-endpoints",
+        "title": "Recommend endpoints",
+        "originalPath": "/features/recommend-endpoints"
+      },
+      {
+        "id": "deviation-classifier",
+        "title": "Deviation classifier",
+        "originalPath": "/features/deviation-classifier"
+      },
+      {
+        "id": "milestone-forecaster",
+        "title": "Milestone forecaster",
+        "originalPath": "/features/milestone-forecaster"
+      },
+      {
+        "id": "ie-optimizer",
+        "title": "Ie optimizer",
+        "originalPath": "/features/ie-optimizer"
+      },
+      {
+        "id": "dropout-predictor",
+        "title": "Dropout predictor",
+        "originalPath": "/features/dropout-predictor"
+      },
+      {
+        "id": "scores",
+        "title": "Scores",
+        "originalPath": "/features/scores"
+      },
+      {
+        "id": "predictions",
+        "title": "Predictions",
+        "originalPath": "/features/predictions"
+      }
+    ]
+  },
+  {
+    "id": "ai-finance",
+    "title": "Finance & reconciliation",
+    "group": "AI assistants",
+    "path": "/assistants/ai-finance",
+    "featureIds": [
+      "sponsor-budget-mapping",
+      "routine-cost-determination",
+      "sponsor-invoice-reconciliation",
+      "correction-refund-workflow",
+      "study-billing-analytics",
+      "cta-and-budget-grid-library",
+      "screen-failure-payment-validation",
+      "milestone-payment-tracking",
+      "start-up-fee-reconciliation",
+      "pass-through-cost-recovery",
+      "invoice-generation-and-support",
+      "sponsor-payment-matching",
+      "payment-query-and-dispute-workflow",
+      "cost-analytics",
+      "cost",
+      "budget-burn"
+    ],
+    "ai": true,
+    "representativeId": "sponsor-budget-mapping",
+    "description": "One assistant for 16 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "sponsor-budget-mapping",
+        "title": "Sponsor budget mapping",
+        "originalPath": "/features/sponsor-budget-mapping"
+      },
+      {
+        "id": "routine-cost-determination",
+        "title": "Routine cost determination",
+        "originalPath": "/features/routine-cost-determination"
+      },
+      {
+        "id": "sponsor-invoice-reconciliation",
+        "title": "Sponsor invoice reconciliation",
+        "originalPath": "/features/sponsor-invoice-reconciliation"
+      },
+      {
+        "id": "correction-refund-workflow",
+        "title": "Correction refund workflow",
+        "originalPath": "/features/correction-refund-workflow"
+      },
+      {
+        "id": "study-billing-analytics",
+        "title": "Study billing analytics",
+        "originalPath": "/features/study-billing-analytics"
+      },
+      {
+        "id": "cta-and-budget-grid-library",
+        "title": "CTA and budget-grid library",
+        "originalPath": "/features/cta-and-budget-grid-library"
+      },
+      {
+        "id": "screen-failure-payment-validation",
+        "title": "Screen-failure payment validation",
+        "originalPath": "/features/screen-failure-payment-validation"
+      },
+      {
+        "id": "milestone-payment-tracking",
+        "title": "Milestone payment tracking",
+        "originalPath": "/features/milestone-payment-tracking"
+      },
+      {
+        "id": "start-up-fee-reconciliation",
+        "title": "Start-up fee reconciliation",
+        "originalPath": "/features/start-up-fee-reconciliation"
+      },
+      {
+        "id": "pass-through-cost-recovery",
+        "title": "Pass-through cost recovery",
+        "originalPath": "/features/pass-through-cost-recovery"
+      },
+      {
+        "id": "invoice-generation-and-support",
+        "title": "Invoice generation and support",
+        "originalPath": "/features/invoice-generation-and-support"
+      },
+      {
+        "id": "sponsor-payment-matching",
+        "title": "Sponsor payment matching",
+        "originalPath": "/features/sponsor-payment-matching"
+      },
+      {
+        "id": "payment-query-and-dispute-workflow",
+        "title": "Payment query and dispute workflow",
+        "originalPath": "/features/payment-query-and-dispute-workflow"
+      },
+      {
+        "id": "cost-analytics",
+        "title": "Cost analytics",
+        "originalPath": "/features/cost-analytics"
+      },
+      {
+        "id": "cost",
+        "title": "Cost",
+        "originalPath": "/features/cost"
+      },
+      {
+        "id": "budget-burn",
+        "title": "Budget burn",
+        "originalPath": "/features/budget-burn"
+      }
+    ]
+  },
+  {
+    "id": "ai-planning",
+    "title": "Planning & scheduling",
+    "group": "AI assistants",
+    "path": "/assistants/ai-planning",
+    "featureIds": [
+      "participant-enrollment",
+      "subject-enrollment-reconciliation",
+      "enrollment-optimization",
+      "enrollment-forecast"
+    ],
+    "ai": true,
+    "representativeId": "participant-enrollment",
+    "description": "One assistant for 4 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "participant-enrollment",
+        "title": "Participant enrollment",
+        "originalPath": "/features/participant-enrollment"
+      },
+      {
+        "id": "subject-enrollment-reconciliation",
+        "title": "Subject enrollment reconciliation",
+        "originalPath": "/features/subject-enrollment-reconciliation"
+      },
+      {
+        "id": "enrollment-optimization",
+        "title": "Enrollment Optimization",
+        "originalPath": "/features/enrollment-optimization"
+      },
+      {
+        "id": "enrollment-forecast",
+        "title": "Enrollment forecast",
+        "originalPath": "/features/enrollment-forecast"
+      }
+    ]
+  },
+  {
+    "id": "ai-quality",
+    "title": "Risk, quality & compliance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-quality",
+    "featureIds": [
+      "q0-q1-modifier-control",
+      "diagnosis-code-validation",
+      "holdback-and-retainage-control",
+      "regulatory-pathway-advisor",
+      "audit-trail",
+      "eligibility-screening",
+      "regulatory-compliance-check",
+      "consent-simplifier",
+      "regulatory-readiness-dashboard",
+      "dropout-risk-predictor",
+      "model-risk",
+      "edc-anomaly",
+      "regulatory-impact",
+      "safety-narrative",
+      "genetic-risk-assess"
+    ],
+    "ai": true,
+    "representativeId": "q0-q1-modifier-control",
+    "description": "One assistant for 15 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "q0-q1-modifier-control",
+        "title": "Q0 Q1 modifier control",
+        "originalPath": "/features/q0-q1-modifier-control"
+      },
+      {
+        "id": "diagnosis-code-validation",
+        "title": "Diagnosis code validation",
+        "originalPath": "/features/diagnosis-code-validation"
+      },
+      {
+        "id": "holdback-and-retainage-control",
+        "title": "Holdback and retainage control",
+        "originalPath": "/features/holdback-and-retainage-control"
+      },
+      {
+        "id": "regulatory-pathway-advisor",
+        "title": "Regulatory Pathway Advisor",
+        "originalPath": "/features/regulatory-pathway-advisor"
+      },
+      {
+        "id": "audit-trail",
+        "title": "Audit trail",
+        "originalPath": "/features/audit-trail"
+      },
+      {
+        "id": "eligibility-screening",
+        "title": "Eligibility Screening",
+        "originalPath": "/features/eligibility-screening"
+      },
+      {
+        "id": "regulatory-compliance-check",
+        "title": "Regulatory Compliance Check",
+        "originalPath": "/features/regulatory-compliance-check"
+      },
+      {
+        "id": "consent-simplifier",
+        "title": "Consent Simplifier",
+        "originalPath": "/features/consent-simplifier"
+      },
+      {
+        "id": "regulatory-readiness-dashboard",
+        "title": "Regulatory Readiness Dashboard",
+        "originalPath": "/features/regulatory-readiness-dashboard"
+      },
+      {
+        "id": "dropout-risk-predictor",
+        "title": "Dropout Risk Predictor",
+        "originalPath": "/features/dropout-risk-predictor"
+      },
+      {
+        "id": "model-risk",
+        "title": "Model risk",
+        "originalPath": "/features/model-risk"
+      },
+      {
+        "id": "edc-anomaly",
+        "title": "Edc anomaly",
+        "originalPath": "/features/edc-anomaly"
+      },
+      {
+        "id": "regulatory-impact",
+        "title": "Regulatory impact",
+        "originalPath": "/features/regulatory-impact"
+      },
+      {
+        "id": "safety-narrative",
+        "title": "Safety narrative",
+        "originalPath": "/features/safety-narrative"
+      },
+      {
+        "id": "genetic-risk-assess",
+        "title": "Genetic risk assess",
+        "originalPath": "/features/genetic-risk-assess"
+      }
+    ]
+  },
+  {
+    "id": "ai-creative",
+    "title": "Creative & design",
+    "group": "AI assistants",
+    "path": "/assistants/ai-creative",
+    "featureIds": [
+      "drug-designer",
+      "history"
+    ],
+    "ai": true,
+    "representativeId": "drug-designer",
+    "description": "One assistant for 2 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "drug-designer",
+        "title": "AI Drug Designer",
+        "originalPath": "/features/drug-designer"
+      },
+      {
+        "id": "history",
+        "title": "AI History",
+        "originalPath": "/features/history"
+      }
+    ]
+  }
+]
