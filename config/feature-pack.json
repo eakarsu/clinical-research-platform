@@ -1,0 +1,28 @@
+{
+  "insights": [
+    {
+      "id": "insight-participant-enrollment",
+      "feature": "participant-enrollment",
+      "title": "Participant enrollment insight",
+      "focus": "Summarize participant enrollment records: totals, enrollment status mix, field coverage and recent activity. Operational summary only; no diagnosis or clinical recommendations."
+    },
+    {
+      "id": "insight-study-protocol-registry",
+      "feature": "study-protocol-registry",
+      "title": "Study protocol insight",
+      "focus": "Summarize study protocol registry records: totals, status mix, field coverage and recent activity."
+    },
+    {
+      "id": "insight-coverage-analysis",
+      "feature": "coverage-analysis",
+      "title": "Coverage analysis insight",
+      "focus": "Summarize coverage analysis records: totals, status mix, field coverage and recent activity."
+    },
+    {
+      "id": "priority-actions",
+      "feature": "tasks",
+      "title": "Priority actions",
+      "focus": "Overdue and upcoming tasks and deadlines, including unassigned work."
+    }
+  ]
+}
